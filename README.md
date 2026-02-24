@@ -1,5 +1,3 @@
-# Disease-Transcriptomics
-Repository ini berisi kumpulan studi kasus transcriptomics pada berbagai penyakit manusia menggunakan data RNA-seq dan microarray publik untuk mengidentifikasi differentially expressed genes, jalur molekuler kunci, serta potensi biomarker melalui analisis statistik dan functional enrichment.
 # Case Study 1: Integrative Blood–Brain Transcriptomic Profiling in Alzheimer’s Disease
 **Background:**
 Studi kasus ini merupakan analisis dan interpretasi terhadap paper Panitch et al. (2022), Blood and brain transcriptome analysis reveals APOE genotype-mediated and immune-related pathways involved in Alzheimer disease, dipublikasikan di Alzheimer’s Research & Therapy. Penelitian tersebut menggunakan pendekatan RNA-sequencing untuk mengevaluasi profil ekspresi gen pada jaringan otak dan darah individu dengan dan tanpa Alzheimer's disease, dengan mempertimbangkan variasi genotipe APOE sebagai faktor risiko genetik utama.
